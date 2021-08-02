@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" filepath="$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopsFor/LoopsFor.iml" filepath="$PROJECT_DIR$/LoopsFor/LoopsFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedConditionalStatements/NestedConditionalStatements.iml" filepath="$PROJECT_DIR$/NestedConditionalStatements/NestedConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedLoops/NestedLoops.iml" filepath="$PROJECT_DIR$/NestedLoops/NestedLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProgrammingBasics.iml" filepath="$PROJECT_DIR$/.idea/ProgrammingBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgrammingBasicsFinalTest/ProgrammingBasicsFinalTest.iml" filepath="$PROJECT_DIR$/ProgrammingBasicsFinalTest/ProgrammingBasicsFinalTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleOperationsAndCalculations/SimpleOperationsAndCalculations.iml" filepath="$PROJECT_DIR$/SimpleOperationsAndCalculations/SimpleOperationsAndCalculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam/TestExam.iml" filepath="$PROJECT_DIR$/TestExam/TestExam.iml" />
+    </modules>
+  </component>
+</project>

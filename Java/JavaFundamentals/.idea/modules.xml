@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AssocArrays/AssocArrays.iml" filepath="$PROJECT_DIR$/AssocArrays/AssocArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalExam/FinalExam.iml" filepath="$PROJECT_DIR$/FinalExam/FinalExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JF_Ex2/JF_Ex2.iml" filepath="$PROJECT_DIR$/JF_Ex2/JF_Ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JF_Ex3/JF_Ex3.iml" filepath="$PROJECT_DIR$/JF_Ex3/JF_Ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFundamentals.iml" filepath="$PROJECT_DIR$/JavaFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PB_Ex1/PB_Ex1.iml" filepath="$PROJECT_DIR$/PB_Ex1/PB_Ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegeX/RegeX.iml" filepath="$PROJECT_DIR$/RegeX/RegeX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextProc/TextProc.iml" filepath="$PROJECT_DIR$/TextProc/TextProc.iml" />
+    </modules>
+  </component>
+</project>

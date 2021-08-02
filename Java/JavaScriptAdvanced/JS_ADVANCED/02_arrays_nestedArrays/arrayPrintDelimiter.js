@@ -1,0 +1,1 @@
+const solve = (arr, delimiter) => arr.join(delimiter);
